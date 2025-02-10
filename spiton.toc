@@ -1,8 +1,9 @@
 ## Interface: 30401
 ## Title: SpitOn
 ## Author: Daelerbackbi
-## Version: 1.0
+## Version: 1.1
 ## Notes: Modifies the /spit emote to target the current target, like before it was patched.
 ## DefaultState: Enabled
+## Icon: icone_spiton
 
 SpitModifier.lua
